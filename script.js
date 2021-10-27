@@ -17,4 +17,6 @@ console.log(typeof language);
 console.log(typeof country);
 console.log(typeof continent);
 console.log(typeof population);
+
+//Extra Practice
 console.log(typeof null);
