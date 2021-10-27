@@ -17,4 +17,4 @@ console.log(typeof language);
 console.log(typeof country);
 console.log(typeof continent);
 console.log(typeof population);
-
+console.log(typeof null);
