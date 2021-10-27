@@ -6,3 +6,15 @@ country. The variable should hold a Boolean value. Also declare a variable
 2. Log the types of 'isIsland', 'population', 'country' and 'language'
 to the console
 */
+let isIsland = "United States"
+let language;
+let country = "United States"
+let continent = "North America"
+let population = 130000
+
+console.log(typeof isIsland);
+console.log(typeof language);
+console.log(typeof country);
+console.log(typeof continent);
+console.log(typeof population);
+
